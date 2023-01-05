@@ -5,7 +5,7 @@
 **Hi, there 👋** </br>
 주니어 프론트엔드 개발자 김동엽 입니다
 
-- 🌱 I’m currently learning FrontEnd ( React, TypeScript, JavaScript, HTML, CSS ) </br>
+- 🌱 I’m currently learning FrontEnd ( React, Angular, TypeScript, JavaScript, HTML, CSS ) </br>
 - 📫 How to reach me: </br>
   -  blog : https://nowsun.tistory.com/ </br>
   -  mail : kdy2975@naver.com
