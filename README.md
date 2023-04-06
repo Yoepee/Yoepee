@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoepee&show_icons=true&bg_color=00000000)](https://github.com/Yoepee/github-readme-stats)
 
 **Hi, there 👋** </br>
-주니어 프론트엔드 개발자 김동엽 입니다
+프론트엔드 개발자 김동엽 입니다
 
 - 🌱 I’m currently learning FrontEnd ( React, Angular, D3, TypeScript, JavaScript, HTML, CSS, SCSS ) </br>
 - ⚡ Fun fact: I’m Slowly learning BackEnd ( Java, Spring ) </br>
