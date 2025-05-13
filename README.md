@@ -1,6 +1,6 @@
-## ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoepee%2FYoepee&count_bg=%23D9DCFB&title_bg=%23000000&icon=&icon_color=%23D9DCFB&title=hits&edge_flat=false)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoepee&show_icons=true&bg_color=00000000)](https://github.com/Yoepee/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoepee)](https://github.com/anuraghazra/github-readme-stats)
 
 **Hi, there 👋** </br>
 프론트엔드 개발자 김동엽 입니다
