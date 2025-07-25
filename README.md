@@ -69,10 +69,13 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat&logo=circleci&logoColor=white)
 
-### 🌐 External API  
-![OpenAI](https://img.shields.io/badge/OpenAI-2A0A4F?style=flat&logo=openai&logoColor=white)
-![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=flat&logo=youtube&logoColor=white)
+### 🌐 External API & LLM  
+![OpenAI GPT](https://img.shields.io/badge/OpenAI_GPT-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-111111?style=flat&logo=anthropic&logoColor=white)
 ![Kakao API](https://img.shields.io/badge/Kakao_API-3C1E1E?style=flat&logo=kakaotalk&logoColor=yellow)
+![YouTube API](https://img.shields.io/badge/YouTube_API-FF0000?style=flat&logo=youtube&logoColor=white)
+![Naver Map API](https://img.shields.io/badge/Naver_Map_API-03C75A?style=flat&logo=naver&logoColor=white)
 
 ### 🤝 Collaboration & Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
