@@ -23,7 +23,7 @@
 - 🔍 Spring Boot, jOOQ, MariaDB, Redis, MongoDB, Flyway, Spring Security, OAuth2 등을 활용한 **백엔드 아키텍처 전반을 설계·구현**했습니다.
 - 🤖 Spring AI + Vector DB 기반으로 검색, 임베딩, AI 요약/추천 기능을 구현하며 **AI 서비스 개발 경험**을 쌓고 있습니다.
 - ☁️ Terraform·AWS·Docker 기반으로 CI/CD, 인프라 자동화, CloudFront·Lambda 이미지 처리 등 **운영 환경까지 직접 구축**하고 있습니다.
-- 🌐 여행 추천 플랫폼(Next.js + Supabase)과 P2P 취미 장비 렌탈 플랫폼(Spring Boot + Next.js) 등 **풀스택 서비스 개발 경험**을 보유하고 있습니다.
+- 🌐 여행 추천 플랫폼(Next.js + Supabase)과 P2P 취미 장비 렌탈 플랫폼(Spring Boot + Next.js) 등 **풀스택 서비스 개발 경험**을 했습니다.
 - 📚 알고리즘, 시스템 설계, CS 등을 학습하며 **스터디를 주도적으로 운영**했습니다.
 - 🎯 사용자 경험과 안정적인 서비스 구조를 동시에 고려하는 **문제 해결 중심 개발자**를 지향합니다.
 
