@@ -42,6 +42,9 @@
 ![styled-components](https://img.shields.io/badge/styled--components-3C3C3C?style=flat&logo=styled-components&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=flat&logo=radixui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=react&logoColor=white)
+![lucide-react](https://img.shields.io/badge/lucide--react-F56565?style=flat&logo=react&logoColor=white)
 
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
