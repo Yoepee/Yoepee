@@ -136,7 +136,19 @@
 [![Naver](https://img.shields.io/badge/NaverMail-kdy2975@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:kdy2975@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-동엽%20김-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%99%EC%97%BD-%EA%B9%80-556308295/)
 
+### 📊 GitHub Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yoepee&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yoepee&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yoepee&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yoepee&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yoepee&theme=tokyonight&utcOffset=9)
+
 ### 방문자 수
 <img src="https://count.getloli.com/@Yoepee?name=Yoepee&theme=sketch-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor count"/>
 
 </div>
+
+
+![Yoepee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoepee&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoepee&layout=compact&theme=tokyonight)
