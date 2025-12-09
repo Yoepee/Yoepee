@@ -64,6 +64,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-2C2C2C?style=flat&logo=supabase&logoColor=3FCF8E)
 ![Vector_DB](https://img.shields.io/badge/Vector_DB-6A5ACD?style=flat&logo=databricks&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white)
+
 
 ### 📡 Testing  & Monitoring & API Tools  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
