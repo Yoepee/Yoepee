@@ -147,8 +147,3 @@
 <img src="https://count.getloli.com/@Yoepee?name=Yoepee&theme=sketch-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor count"/>
 
 </div>
-
-
-![Yoepee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoepee&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoepee&layout=compact&theme=tokyonight)
