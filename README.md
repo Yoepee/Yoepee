@@ -1,5 +1,13 @@
-# 👋 안녕하세요, 김동엽(Yoepee)입니다!
-프론트엔드 실무 경험을 바탕으로 백엔드까지 확장 중인 **풀스택 지향 주니어 개발자**입니다.
+markdown<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Yoepee&fontSize=80&fontAlignY=35&desc=Frontend%20to%20Fullstack%20Developer&descAlignY=55&descAlign=50" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=👋+안녕하세요%2C+김동엽(Yoepee)입니다!;프론트엔드에서+풀스택으로+성장하는+개발자+🚀)](https://git.io/typing-svg)
+
+### 💡 Frontend Experience → Backend Expansion → Fullstack Developer
+
+</div>
+
 
 ## 🧠 About Me
 
@@ -13,6 +21,8 @@
 - 📚 알고리즘, 시스템 설계, CS 등을 학습하며 스터디를 주도적으로 운영하고 있습니다.
 - 🎯 사용자 경험을 중요하게 생각하며, 문제 해결 중심의 개발자 성장을 지향합니다.
 
+<div align="center">
+  
 ## 🛠️ Tech Stack
 
 ### 🧑‍💻 Language  
@@ -119,15 +129,14 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-2E2E2E?style=flat&logo=react&logoColor=white)
-## 📊 GitHub Stats
-![Yoepee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoepee&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoepee&layout=compact&theme=tokyonight)
 
-## 📫 Contact
+### 📫 Contact
 [![Tistory Blog](https://img.shields.io/badge/Blog-nowsun.tistory.com-orange)](https://nowsun.tistory.com/)
 [![Gmail](https://img.shields.io/badge/Gmail-rla9123@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rla9123@gmail.com)
 [![Naver](https://img.shields.io/badge/NaverMail-kdy2975@naver.com-03C75A?style=flat&logo=naver&logoColor=white)](mailto:kdy2975@naver.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-동엽%20김-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%99%EC%97%BD-%EA%B9%80-556308295/)
 
-## 방문자 수
+### 방문자 수
 <img src="https://count.getloli.com/@Yoepee?name=Yoepee&theme=sketch-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor count"/>
+
+</div>
