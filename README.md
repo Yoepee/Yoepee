@@ -2,7 +2,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Yoepee&fontSize=80&fontAlignY=35&desc=Fullstack%20Developer&descAlignY=55&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=👋+안녕하세요%2C+김동엽(Yoepee)입니다!;프론트엔드에서+풀스택으로+성장하는+개발자+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=👋+안녕하세요%2C+김동엽(Yoepee)입니다!;풀스택으로+성장하는+개발자+🚀)](https://git.io/typing-svg)
 
 ### 💡 Frontend Experience → Backend Expansion → Fullstack Developer
 
