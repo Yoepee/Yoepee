@@ -20,7 +20,7 @@
 - 📝 FDA 승인용 웹 시뮬레이터를 직접 설계·구현하고 리포트 최적화, 다국어 시스템 도입 등 **제품 안정성과 품질 개선을 주도**했습니다.
 - 🤝 디자인/QA/임상팀/병원·판독팀 등과 협업하며 문제를 정의하고 해결하는 **실전 협업 역량**을 갖추고 있습니다.
 - 🧠 현재는 **Java + Spring 기반의 AI 백엔드 프로젝트를 개발**하며 서버/인프라 역량을 확장하고 있습니다.
-- 🔍 Spring Boot, jOOQ, MariaDB, Redis, MongoDB, Flyway, Spring Security, OAuth2 등을 활용한 **백엔드 아키텍처 전반을 설계·구현**했습니다.
+- 🔍 Spring Boot, jOOQ, MariaDB, Redis, Flyway, Spring Security, OAuth2 등을 활용한 **백엔드 아키텍처 전반을 설계·구현**했습니다.
 - 🤖 Spring AI + Vector DB 기반으로 검색, 임베딩, AI 요약/추천 기능을 구현하며 **AI 서비스 개발 경험**을 쌓고 있습니다.
 - ☁️ Terraform·AWS·Docker 기반으로 CI/CD, 인프라 자동화, CloudFront·Lambda 이미지 처리 등 **운영 환경까지 직접 구축**하고 있습니다.
 - 🌐 여행 추천 플랫폼(Next.js + Supabase)과 P2P 취미 장비 렌탈 플랫폼(Spring Boot + Next.js) 등 **풀스택 서비스 개발 경험**을 했습니다.
