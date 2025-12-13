@@ -152,4 +152,5 @@
 ### 방문자 수
 <img src="https://count.getloli.com/@Yoepee?name=Yoepee&theme=sketch-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="visitor count"/>
 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 </div>
