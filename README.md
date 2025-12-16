@@ -90,6 +90,7 @@
 ![Whatap](https://img.shields.io/badge/Whatap-2E2E2E?style=flat&logo=monitor&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+<img src="https://img.shields.io/badge/K6-7D64FF?style=flat&logo=k6&logoColor=white" />
 
 ### 📊 Data & Visualization  
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
